@@ -1,3 +1,25 @@
 body {
     font-family: Helvetica;
+    
 }
+img {
+    width:160px; 
+    height:auto;
+}
+#player-one-score  {
+    font-style: italic;
+    color:  0099FF;
+}
+#player-two-score {
+    font-weight: bold;
+    color: red ;
+}
+.player-one-name {
+    font-style:  italic;
+    font-family:arial;
+    font-size:24;
+}
+.player-two-name{ 
+    font-size:24;
+    color:#cc99ff;
+}  
